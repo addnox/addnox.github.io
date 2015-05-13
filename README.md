@@ -1,2 +1,2 @@
-# addnox_notes.github.io
+# addnox.github.io
 My Reading Notes
